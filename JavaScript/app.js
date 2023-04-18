@@ -48,7 +48,6 @@ function copyText(){
 
 }
 
-  
 //Variables:
     
 const btnEncrypted = document.getElementById('button-encrypted').addEventListener('click', encrypted);
