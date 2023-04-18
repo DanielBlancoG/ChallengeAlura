@@ -72,6 +72,8 @@
     height: 288px;
     top: 168px;
     left: 240px;
+    
+    
 }
 
 .text-info{
@@ -79,9 +81,9 @@
     resize: none;
     font-size: 25px;
     background: transparent;
-    border: none;
     outline: none;
     color: #0A3871;
+    
 }
 
 ::placeholder{
