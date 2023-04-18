@@ -9,7 +9,6 @@
     vertical-align: baseline;
 }
 
-
 /* Firts part */
 
 .container{
@@ -268,7 +267,6 @@
     z-index: 2;
 }
 
-
 .btn2:hover{
     color: #fff;
 }
@@ -401,7 +399,6 @@
         left: 16px;
     }
 
-
     .container{
         margin: 0 auto;
         height: 110vh;
@@ -501,11 +498,5 @@
     .custom-shape-divider-top-1681495388 svg{
         height: 70px;
     }
-
-   
-
-
-
-
 
 }
